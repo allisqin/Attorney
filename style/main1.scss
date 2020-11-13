@@ -1,0 +1,19 @@
+$btn-color-red: #ff6a6d;
+$btn-color-blue: #70d9f8;
+$title-color: #3b3838;
+$text-color: #d2d2d2;
+$link-color: #b3e5f8;
+$check-blue: #8dd7fb;
+$price-color: #6c6a6a;
+$card-color-red: #fff2f2;
+$contact-color: #c1f2fe;
+
+html{
+	font-size: 18px;
+	color: $text-color;
+}
+
+
+@import 'base.css';
+@import 'feature.css';
+
